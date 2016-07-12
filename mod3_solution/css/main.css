@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  }
+body{
+	background-color: #61122f;
+}
+#header-nav{
+	background-color: #f6b315;
+	border-radius: 0;
+	border: 0;
+}
+h3{
+	text-shadow: 2px;
+	font-style: italic;
+
+}
+div li a{
+	text-align: center;
+}
+.navbar-header button.navbar-toggler, .navbar-header .icon-bar {
+border: 1px solid #61122f;
+}
+
+body header h3 {
+	color:#f4f7f9;
+	font-family: arial;
+	font-weight: bold;
+}
+body section p{
+	color:#f4f7f9;
+	font-family: arial;
+	font-weight: bold;
+}
+body section div p{
+	color:#e3e7eb;
+	font-family: arial;
+	font-weight: normal;
+}
